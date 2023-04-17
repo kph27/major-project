@@ -1,5 +1,5 @@
 # major-project
-#SELF INTRODUCTION: 
+# SELF INTRODUCTION: 
 This is a MAJOR PROJECT on "Wireless Sensor Network Dependable Monitoring for Urban Air Quality"
 PRESENTED BY
 M.VEDANGANA (197R1A05N3)
@@ -10,7 +10,7 @@ UNDER THE GUIDANCE OF
 D. SANDHYA RANI
 (Assistant Professor)
 
-#PROJECT DESCRIPTION:
+# PROJECT DESCRIPTION:
 A recent projection by the United Nations (UN) foresees that by 2050 nearly 70% of
 global population will be living in the cities. This urbanization trend leads to
 considerable demands for transportation, industrial production, infrastructure and
@@ -26,7 +26,7 @@ needed for monitoring and improving air quality, whereby IOT-enabled wireless
 sensors networks are promising among available monitoring systems for healthy
 built environment and air quality management.
 
-#ABSTRACT:
+# ABSTRACT:
 This project is an Internet of Things-enabled low-cost wireless sensor network with
 newly-developed dependable schemes to improve reliability for monitoring air quality
 in suburban areas. The system features sensing units for router communications with
